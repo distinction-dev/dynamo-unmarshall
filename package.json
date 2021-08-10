@@ -36,5 +36,8 @@
   "peerDependencies": {
     "@middy/core": "^2.5.1",
     "aws-sdk": "^2.964.0"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
