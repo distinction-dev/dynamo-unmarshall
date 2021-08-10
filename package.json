@@ -1,0 +1,27 @@
+{
+  "name": "@distinction-dev/dynamo-unmarshall",
+  "version": "0.0.0-development",
+  "description": "Middy middleware to unmarshall records from DynamoDB Stream events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/distinction-dev/dynamo-unmarshall.git"
+  },
+  "keywords": [
+    "Middy",
+    "aws",
+    "lambda"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/distinction-dev/dynamo-unmarshall/issues"
+  },
+  "homepage": "https://github.com/distinction-dev/dynamo-unmarshall#readme",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.82"
+  }
+}
