@@ -1,4 +1,4 @@
-# Middy error-logger middleware
+# Middy DynamoDB Unmarshall
 
 <div align="center">
   <img alt="Middy logo" src="https://raw.githubusercontent.com/middyjs/middy/main/docs/img/middy-logo.png"/>
